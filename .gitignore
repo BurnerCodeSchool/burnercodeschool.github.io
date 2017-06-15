@@ -1,0 +1,36 @@
+### https://raw.github.com/github/gitignore/13f15a38f3132ea780ca8c3d237a6c3405a6ca69/ruby.gitignore
+
+*.gem
+*.rbc
+/.config
+/coverage/
+/InstalledFiles
+/pkg/
+/spec/reports/
+/test/tmp/
+/test/version_tmp/
+/tmp/
+
+## Specific to RubyMotion:
+.dat*
+.repl_history
+build/
+
+## Documentation cache and generated files:
+/.yardoc/
+/_yardoc/
+/doc/
+/rdoc/
+
+## Environment normalisation:
+/.bundle/
+/lib/bundler/man/
+
+### https://raw.github.com/github/gitignore/13f15a38f3132ea780ca8c3d237a6c3405a6ca69/jekyll.gitignore
+
+_site
+.sass-cache
+.jekyll-metadata
+
+# ignore contents of .direnv
+.direnv
